@@ -1,0 +1,106 @@
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.exe.config
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.exe
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.pdb
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.exe
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.pdb
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Sach.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Trangchu.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dangnhap.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Quenmatkhau.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.CapnhatMatKhau.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dieukienmatkhau.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa_sua_sach.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Tacgia.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_Tacgia.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Nguoidoc.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_nguoi_doc.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Muonsach.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.exe.config
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.exe
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.pdb
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.CapnhatMatKhau.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dangnhap.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dieukienmatkhau.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Muonsach.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Quanlytaikhoan.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Quenmatkhau.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Nguoidoc.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Sach.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Tacgia.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Trangchu.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_nguoi_doc.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_Tacgia.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa_sua_sach.resources
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.exe
+C:\Users\ADMIN\Desktop\CODE_THAM_KHAO\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.pdb
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Nhanvien.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa_sua_Nhanvien.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dieukienmatkhau2.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Theloai.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Nhaxuatban.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Thethuvien.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_the_thu_vien.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Trasach.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xemthongtintramuon.resources
+C:\Users\ADMIN\Desktop\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xemthongtinnguoidoctheosothethuviencs.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.exe.config
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.exe
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\NMCNPM-CuoiKy.pdb
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.CapnhatMatKhau.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dangnhap.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dieukienmatkhau.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Dieukienmatkhau2.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Muonsach.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Nhanvien.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Nhaxuatban.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Quenmatkhau.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Theloai.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Thethuvien.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Nguoidoc.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Sach.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Them_Tacgia.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Trangchu.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Trasach.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xemthongtinnguoidoctheosothethuviencs.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xemthongtintramuon.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_nguoi_doc.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_Tacgia.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa__sua_the_thu_vien.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa_sua_Nhanvien.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM_CuoiKy.Xoa_sua_sach.resources
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.exe
+C:\Users\ADMIN\Desktop\HỌC KỲ 1      T9 -2023\NMCNPM-CuoiKy\obj\Debug\NMCNPM-CuoiKy.pdb
